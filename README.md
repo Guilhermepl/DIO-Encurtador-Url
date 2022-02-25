@@ -1,2 +1,2 @@
 # DIO-Encurtador-Url
-desenvolva seu próprio encurtador de url a partir da construção de uma API com NodeJS, Typescript e MongoDB para a base de dados.
+Desenvolvimento de encurtador de url a partir de uma API com NodeJS, Typescript e MongoDB para a base de dados.
